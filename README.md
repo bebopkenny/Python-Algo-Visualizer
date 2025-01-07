@@ -4,6 +4,12 @@ Welcome to the **Sorting Algorithm Visualizer**, an interactive Python applicati
 
 ---
 
+## 🎥 Demo Video
+Check out the live demo of the visualizer in action!  
+📹 **[Watch the Video on Vimeo](https://vimeo.com/manage/videos/1044574041)**
+
+---
+
 ## 🚀 Project Overview
 
 This visualizer demonstrates sorting processes with vibrant, real-time animations. Users can interact with the visualizer by selecting different sorting algorithms, adjusting sorting directions (ascending/descending), and resetting the array for a fresh start.
@@ -41,7 +47,7 @@ This visualizer demonstrates sorting processes with vibrant, real-time animation
 
 ## 🎥 Demo Video
 Check out the live demo of the visualizer in action!  
-📹 **[Watch the Video on Vimeo](https://vimeo.com/your-demo-video-link)**
+📹 **[Watch the Video on Vimeo](https://vimeo.com/manage/videos/1044574041)**
 
 ---
 
