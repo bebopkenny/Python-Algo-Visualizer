@@ -109,10 +109,14 @@ This project helps users understand:
 - Optimizing the visualizer for better performance
 ---
 ## 📧 Contact
-**Feel free to reach out for any questions or collaboration opportunities!**
-📩 Email: kennygarcia15@yahoo.com
-🌐 Portfolio: kennygarcia.net
+
+For any inquiries or feedback, please reach out:
+
+- **Name**: Kenny Garcia
+- **GitHub**: [github.com/bebopkenny](https://github.com/bebopkenny)
+- **Portfolio**: [kennygarcia.net](https://kennygarcia.net)
+- **Email**: [kennygarcia15@yahoo.com](mailto:kennygarcia15@yahoo.com)
 ---
-📄 License
-This project is licensed under the MIT License.
-See the LICENSE file for more details.
+## 📄 License
+
+This project is licensed under the MIT License. See the `LICENSE` file for more details.
