@@ -1,20 +1,20 @@
-# 🎨 Sorting Algorithm Visualizer 📊
+# Sorting Algorithm Visualizer 
 
 Welcome to the **Sorting Algorithm Visualizer**, an interactive Python application built using **Pygame**. This project is designed to help users understand sorting algorithms through real-time visualizations. It features two fundamental sorting algorithms: **Bubble Sort** and **Insertion Sort**, both visualized step-by-step with a dynamic and colorful bar graph interface.
 
 ---
 
-## 🎥 Demo Video
+## Demo Video
 Check out the live demo of the visualizer in action!  
-📹 **[Watch the Video on Vimeo](https://vimeo.com/manage/videos/1044574041)**
+**[Watch the Video on Vimeo](https://vimeo.com/manage/videos/1044574041)**
 
 ---
 
-## 🚀 Project Overview
+## Project Overview
 
 This visualizer demonstrates sorting processes with vibrant, real-time animations. Users can interact with the visualizer by selecting different sorting algorithms, adjusting sorting directions (ascending/descending), and resetting the array for a fresh start.
 
-### **✨ Features**
+### **Features**
 - Real-time visualization of sorting algorithms
 - Interactive controls for a customizable sorting experience
 - Modern UI with gradient color schemes and clear instructions
@@ -22,36 +22,36 @@ This visualizer demonstrates sorting processes with vibrant, real-time animation
 
 ---
 
-## 🖥️ Technologies Used
-- **Language:** Python 🐍
-- **Library:** Pygame 🎮
+## Technologies Used
+- **Language:** Python 
+- **Library:** Pygame 
 - **Fonts:** Poppins and FiraCode for a clean, modern look
 
 ---
 
-## 📷 Screenshots
+## Screenshots
 
 ### 🔵 **Initial State (Before Sorting)**
 ![Initial State](https://github.com/user-attachments/assets/20c23b09-abf5-49f9-9a82-1dfe9c034c47)
 
 
-### 🔴 **Switching State (During Sorting)**
+### **Switching State (During Sorting)**
 ![Switching State](https://github.com/user-attachments/assets/cb7d7928-3659-4620-9cfa-51dae458d1ac)
 
 
-### ✅ **Final Sorted State**
+### **Final Sorted State**
 ![Final State](https://github.com/user-attachments/assets/d39e8c33-1f0d-4223-95d6-c2aa5fcab723)
 
 
 ---
 
-## 🎥 Demo Video
+## Demo Video
 Check out the live demo of the visualizer in action!  
-📹 **[Watch the Video on Vimeo](https://vimeo.com/manage/videos/1044574041)**
+**[Watch the Video on Vimeo](https://vimeo.com/manage/videos/1044574041)**
 
 ---
 
-## 🕹️ Controls
+## Controls
 
 | **Key**     | **Action**                             |
 |-------------|----------------------------------------|
@@ -64,7 +64,7 @@ Check out the live demo of the visualizer in action!
 
 ---
 
-## 🎨 Color Scheme (RGB Values)
+## Color Scheme (RGB Values)
 
 | **Element**         | **Color**         | **RGB Value**      | **Description**                        |
 |---------------------|-------------------|--------------------|----------------------------------------|
@@ -76,7 +76,7 @@ Check out the live demo of the visualizer in action!
 
 ---
 
-## ⚙️ Code Structure
+## Code Structure
 
 
 
@@ -86,7 +86,7 @@ Check out the live demo of the visualizer in action!
 
 ---
 
-## 📚 Learning Outcomes
+## Learning Outcomes
 
 This project helps users understand:
 - How **sorting algorithms** work step-by-step
@@ -96,7 +96,7 @@ This project helps users understand:
 
 ---
 
-## 📥 How to Run the Project Locally
+## How to Run the Project Locally
 
 1. **Clone the Repository:**
    ```bash
@@ -109,12 +109,12 @@ This project helps users understand:
    ```bash
    python main.py
 ---
-## 💡 Future Improvements
+## Future Improvements
 - Adding more sorting algorithms (Quick Sort, Merge Sort, etc.)
 - Enhancing the UI with additional controls and themes
 - Optimizing the visualizer for better performance
 ---
-## 📧 Contact
+## Contact
 
 For any inquiries or feedback, please reach out:
 
